@@ -1,4 +1,4 @@
-# **2025 - IEEE Sección Costa Rica - Taller de LaTeX**
+# **2025 - IEEE Sección Costa Rica - Taller de LaTeX en la UCR**
 
 Taller de LaTeX impartido en la Universidad de Costa Rica (UCR) por IEEE Circuits and Systems Society (CASS) Sección Costa Rica en colaboración con la rama de la UCR y el capítulo estudiantil de Computer Socierty (CS) de la UCR.
 
